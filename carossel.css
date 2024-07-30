@@ -34,6 +34,32 @@
   display:flex;
   justify-content:space-between;
   margin-bottom:0.5em;
-  
+}
 
-https://github.com/giullianacestari/alura-books/blob/aula10/styles/carrossel.css
+
+
+
+.card-botoes {
+    display: flax;
+    justify-content: space-between;
+}
+
+.botoes {
+    display:flex;
+}
+
+.descricao-titulo{
+    color:var(--laranja);
+    font-weight:700;
+}
+
+.descricao-titulo-livro{
+    color:var(--azul);
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0.5em 0;
+}
+
+.descricao-texto{
+    font-size: 14px;
+}
